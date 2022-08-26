@@ -91,16 +91,12 @@ import {BrowserRouter,Link , NavLink , Switch } from 'react-router-dom';
           </li>
       
       
-          <li className="nav-item">
-              <a className="nav-link" href="tables.html">
-                  <i className="fas fa-fw fa-table"></i>
-               <span>Tables</span>
-               </a>
+          <li class="nav-item active">
+                <a class="nav-link" href="tables.html">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>Tables</span></a>
+            </li>
               
-  
-
-          </li>
-      
           <hr className="sidebar-divider d-none d-md-block"/>
       
           <div className="text-center d-none d-md-inline">
